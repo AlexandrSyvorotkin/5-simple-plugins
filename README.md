@@ -35,10 +35,6 @@ plugin Game
 
 plugin Game2
 
-![](images/pluginGame1/Screenshot_1.png)
-
-![](images/pluginGam1e/Screenshot_2.png)
-
-![](images/pluginGame1/Screenshot_3.png)
+![](images/pluginGame1/Screenshot_4.png)
 
 
