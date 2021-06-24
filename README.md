@@ -37,11 +37,13 @@
 
 ## Плагин игра для тренировки aim
 
+![](images/pluginGame/Screenshot_3.png)
+
 ![](images/pluginGame/Screenshot_1.png)
 
 ![](images/pluginGame/Screenshot_2.png)
 
-![](images/pluginGame/Screenshot_3.png)
+
 
 
 
