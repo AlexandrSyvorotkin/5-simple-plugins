@@ -7,7 +7,7 @@
 - Плагин игра змейка
 - Плагин игра для тренировки aim
 
-Plugin slider
+## Плагин слайдер с разварачиваниванием картинки
 
 ![](images/plugin1/Screenshot_1.png)
 
@@ -15,7 +15,7 @@ Plugin slider
 
 ![](images/plugin1/Screenshot_3.png)
 
-plugin slide 2
+## Плагин слайдер с одновременным переключением двух картинок
 
 ![](images/plugin2/Screenshot_1.png)
 
@@ -23,7 +23,7 @@ plugin slide 2
 
 ![](images/plugin2/Screenshot_3.png)
 
-plugin drugdrop
+## Драг и Дроп плагин
 
 ![](images/PluginDrugDrop/Screenshot_1.png)
 
@@ -31,7 +31,11 @@ plugin drugdrop
 
 ![](images/PluginDrugDrop/Screenshot_3.png)
 
-plugin Game
+## Плагин игра змейка
+
+![](images/pluginGame1/Screenshot_4.png)
+
+## Плагин игра для тренировки aim
 
 ![](images/pluginGame/Screenshot_1.png)
 
@@ -40,8 +44,6 @@ plugin Game
 ![](images/pluginGame/Screenshot_3.png)
 
 
-plugin Game2
 
-![](images/pluginGame1/Screenshot_4.png)
 
 
